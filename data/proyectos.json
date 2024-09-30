@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "1",
+    "name": "Proyecto A",
+    "description": "Descripción del Proyecto A",
+    "link": "http://miweb.com/proyecto-a",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "JavaScript",
+      "React"
+    ],
+    "section": "webapp"
+  },
+  {
+    "_id": "2",
+    "name": "Proyecto B",
+    "description": "Descripción del Proyecto B",
+    "link": "http://miweb.com/proyecto-b",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "Python",
+      "Django"
+    ],
+    "section": "webapp"
+  },
+  {
+    "_id": "3",
+    "name": "Proyecto C",
+    "description": "Descripción del Proyecto C",
+    "link": "http://miweb.com/proyecto-c",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "Java",
+      "Spring"
+    ],
+    "section": "mobile"
+  },
+  {
+    "_id": "4",
+    "name": "Proyecto D",
+    "description": "Descripción del Proyecto D",
+    "link": "http://miweb.com/proyecto-d",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "C#",
+      ".NET"
+    ],
+    "section": "ecommerce"
+  },
+  {
+    "_id": "5",
+    "name": "Proyecto E",
+    "description": "Descripción del Proyecto E",
+    "link": "http://miweb.com/proyecto-e",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "PHP",
+      "Laravel"
+    ],
+    "section": "mobile"
+  },
+  {
+    "_id": "6",
+    "name": "Proyecto F",
+    "description": "Descripción del Proyecto F",
+    "link": "http://miweb.com/proyecto-f",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "Swift",
+      "iOS"
+    ],
+    "section": "mobile"
+  },
+  {
+    "_id": "7",
+    "name": "Proyecto G",
+    "description": "Descripción del Proyecto G",
+    "link": "http://miweb.com/proyecto-g",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "Ruby",
+      "Rails"
+    ],
+    "section": "webapp"
+  },
+  {
+    "_id": "8",
+    "name": "Proyecto H",
+    "description": "Descripción del Proyecto H",
+    "link": "http://miweb.com/proyecto-h",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "JavaScript",
+      "Vue"
+    ],
+    "section": "ecommerce"
+  },
+  {
+    "_id": "9",
+    "name": "Proyecto I",
+    "description": "Descripción del Proyecto I",
+    "link": "http://miweb.com/proyecto-i",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "PHP",
+      "Symfony"
+    ],
+    "section": "ecommerce"
+  },
+  {
+    "_id": "10",
+    "name": "Proyecto J",
+    "description": "Descripción del Proyecto J",
+    "link": "http://miweb.com/proyecto-j",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "Kotlin",
+      "Android"
+    ],
+    "section": "mobile"
+  }
+]
