@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "66f5f82a153c054941d4faf1"
+  },
+  "name": "Gourmet Web Revamp",
+  "description": "Un proyecto para actualizar la presencia en línea de un restaurante gourmet, incluyendo un menú interactivo y reservas en línea.",
+  "link": "http://miweb.com/proyecto-a",
+  "img": "https://picsum.photos/400/225",
+  "technologies": "JavaScript,React",
+  "section": "webapp",
+  "clientId": "66f5a445153c054941d4face"
+},
+{
+  "_id": {
+    "$oid": "66f5f82a153c054941d4faf2"
+  },
+  "name": "TaskMaster Pro",
+  "description": "Desarrollo de una aplicación web para la gestión de tareas, permitiendo a los usuarios organizar y priorizar sus actividades diarias.",
+  "link": "http://miweb.com/proyecto-b",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "Python",
+    "Django"
+  ],
+  "section": "webapp",
+  "clientId": "66f5a445153c054941d4faca"
+},
+{
+  "_id": {
+    "$oid": "66f5f82a153c054941d4faf3"
+  },
+  "name": "FitTrack App",
+  "description": "Creación de una aplicación móvil para ayudar a los usuarios a seguir sus rutinas de ejercicio y alimentación.",
+  "link": "http://miweb.com/proyecto-c",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "Java",
+    "Spring"
+  ],
+  "section": "mobile",
+  "clientId": "66f5a445153c054941d4facb"
+},
+{
+  "_id": {
+    "$oid": "66f5f82a153c054941d4faf4"
+  },
+  "name": "Crafted Goods Store",
+  "description": "Desarrollo de una plataforma de e-commerce para la venta de productos artesanales, con una interfaz fácil de usar.",
+  "link": "http://miweb.com/proyecto-d",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "C#",
+    ".NET"
+  ],
+  "section": "ecommerce",
+  "clientId": "66f5a445153c054941d4facc"
+},
+{
+  "_id": {
+    "$oid": "66f5f82a153c054941d4faf5"
+  },
+  "name": "Boutique Hotel Reservations",
+  "description": "Implementación de un sistema de reservas en línea para un hotel boutique, mejorando la experiencia del cliente.",
+  "link": "http://miweb.com/proyecto-e",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "PHP",
+    "Laravel"
+  ],
+  "section": "mobile",
+  "clientId": "66f5a445153c054941d4facd"
+},
+{
+  "_id": {
+    "$oid": "66f5f82a153c054941d4faf6"
+  },
+  "name": "Expense Tracker Pro",
+  "description": "Desarrollo de una app que permite a los usuarios llevar un control de sus gastos e ingresos, ayudando en la planificación financiera.",
+  "link": "http://miweb.com/proyecto-f",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "Swift",
+    "iOS"
+  ],
+  "section": "mobile",
+  "clientId": null
+},
+{
+  "_id": {
+    "$oid": "66f5f82a153c054941d4faf7"
+  },
+  "name": "Local News Hub",
+  "description": "Creación de un portal de noticias que permite a los usuarios estar al tanto de los eventos y noticias de su localidad.",
+  "link": "http://miweb.com/proyecto-g",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "Ruby",
+    "Rails"
+  ],
+  "section": "webapp",
+  "clientId": "66f5a445153c054941d4face"
+},
+{
+  "_id": {
+    "$oid": "66f5f82a153c054941d4faf8"
+  },
+  "name": "Online Course Platform",
+  "description": "Desarrollo de una plataforma que permite a los usuarios acceder a cursos en línea sobre diversas temáticas.",
+  "link": "http://miweb.com/proyecto-h",
+  "img": "https://picsum.photos/400/225",
+  "technologies": "JavaScript,Vue",
+  "section": "ecommerce",
+  "clientId": "66f5a445153c054941d4facb"
+},
+{
+  "_id": {
+    "$oid": "66f5f82a153c054941d4faf9"
+  },
+  "name": "Inventory Manager Pro",
+  "description": "Implementación de un sistema para gestionar el inventario de una tienda minorista, optimizando la administración de productos.",
+  "link": "http://miweb.com/proyecto-i",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "PHP",
+    "Symfony"
+  ],
+  "section": "ecommerce",
+  "clientId": "66f5a445153c054941d4facc"
+},
+{
+  "_id": {
+    "$oid": "66f5f82a153c054941d4fafa"
+  },
+  "name": "Weather App Delight",
+  "description": "Creación de una aplicación móvil que proporciona pronósticos del clima en tiempo real, ayudando a los usuarios a planificar su día.",
+  "link": "http://miweb.com/proyecto-j",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "Kotlin",
+    "Android"
+  ],
+  "section": "mobile",
+  "clientId": "66f5a445153c054941d4faca"
+}]

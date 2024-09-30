@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fac7"
+  },
+  "nombre": "Green Energy Solutions",
+  "foto": "https://picsum.photos/200/300?random=2",
+  "descripcion": "Especialistas en soluciones energéticas sustentables y renovables."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fac8"
+  },
+  "nombre": "Fast Logistics",
+  "foto": "https://picsum.photos/200/300?random=3",
+  "descripcion": "Proveedores líderes en servicios logísticos y transporte rápido."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fac9"
+  },
+  "nombre": "Creative Media",
+  "foto": "https://picsum.photos/200/300?random=4",
+  "descripcion": "Agencia de marketing digital y diseño multimedia."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4faca"
+  },
+  "nombre": "Healthcare Solutions",
+  "foto": "https://picsum.photos/200/300?random=5",
+  "descripcion": "Ofrecen tecnología avanzada para mejorar los servicios de salud."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4facb"
+  },
+  "nombre": "EduTech Global",
+  "foto": "https://picsum.photos/200/300?random=6",
+  "descripcion": "Desarrolladores de plataformas educativas online."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4facc"
+  },
+  "nombre": "Urban Architecture",
+  "foto": "https://picsum.photos/200/300?random=7",
+  "descripcion": "Firma de arquitectos especializados en diseño urbano."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4facd"
+  },
+  "nombre": "AutoDrive Systems",
+  "foto": "https://picsum.photos/200/300?random=8",
+  "descripcion": "Empresa que lidera el mercado de automóviles autónomos y tecnología de vehículos."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4face"
+  },
+  "nombre": "Fashion Trends",
+  "foto": "https://picsum.photos/200/300?random=9",
+  "descripcion": "Una de las marcas de ropa más influyentes del mundo."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4facf"
+  },
+  "nombre": "Fintech Ventures",
+  "foto": "https://picsum.photos/200/300?random=10",
+  "descripcion": "Innovadores en tecnología financiera, ofreciendo soluciones avanzadas para bancos y empresas."
+}]
